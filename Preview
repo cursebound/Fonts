@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Preview</title>
+    <style>
+    @font-face {
+  font-family: believe;
+  src: url(./believe.ttf);
+}
+@font-face {
+  font-family: maya;
+  src: url(./maya.ttf);
+}@font-face {
+  font-family: beauty;
+  src: url(beauty.ttf);
+}
+    body{
+    background-color:lightcyan;
+    }
+    h1{
+    font-family: believe;
+    }
+    h2{
+    font-family: beauty;
+    }
+    h3{
+font-family: maya;
+    }
+
+    h4{
+
+    }
+    h5{
+    }
+    h6{
+    }
+    </style>
+  </head>
+  <body>
+	
+  <h1> hshs siehs slashed e sosgs slaa JDBEISBDIDBDDOWKWVSOSNSS hw slsvssb sosvss</h1>
+  <h1> hshs siehs slashed e sosgs slaa JDBEISBDIDBDDOWKWVSOSNSS hw slsvssb sosvss</h2>
+  <h3> hshs siehs slashed e sosgs slaa JDBEISBDIDBDDOWKWVSOSNSS hw slsvssb sosvss</h3>
+  <h4> hshs siehs slashed e sosgs slaa JDBEISBDIDBDDOWKWVSOSNSS hw slsvssb sosvss</h4>
+  <h5> hshs siehs slashed e sosgs slaa JDBEISBDIDBDDOWKWVSOSNSS hw slsvssb sosvss</h5>
+  <h6> hshs siehs slashed e sosgs slaa JDBEISBDIDBDDOWKWVSOSNSS hw slsvssb sosvss</h6>
+
+
+  </body>
+</html>
